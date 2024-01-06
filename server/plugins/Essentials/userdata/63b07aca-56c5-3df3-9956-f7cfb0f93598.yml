@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701271903022
+  login: 1701271811934
+money: '0'
+last-account-name: VoolYeeler238_
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.42705506222717
+  y: 113.0
+  z: 119.28693441862518
+  yaw: 179.924072265625
+  pitch: -0.4500099718570709

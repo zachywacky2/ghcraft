@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701694885349
+  login: 1701694779648
+money: '0'
+last-account-name: DarverEagl561
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.56241915663577
+  y: 114.0
+  z: 113.65333935469086
+  yaw: 231.07406616210938
+  pitch: -62.69999694824219

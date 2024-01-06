@@ -1,0 +1,28 @@
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+#                                      DISCLAIMER:                                      #
+#   THE HIGHER THE "MaxRadius" VALUE IS, THE MORE DECISIONS THE PLUGIN HAS TO RUN ON    #
+#   BE SURE THAT YOU HAVE A RELIABLE SERVER HOST BEFORE INCREASING THIS FEATURE         #
+#   THE RECOMMENDED AMOUNT IS 4 BLOCKS. THAT SHOULD BE ALL YOU NEED                     #
+#   THE RECOMMENDED MAXIMUM IS 7 BLOCKS. YOU MAY GO HIGHER, BUT BE CAUTIOUS DOING SO    #
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+
+# Also: Please note that REDSTONE_ORE and GLOWING_REDSTONE_ORE are the same blocks, but both are necessary in the list in order for it to work. 
+# |-->  Reason: Touching a redstone block turns it into a glowing redstone ore, and the plugin needs to be able to detect both
+
+MetricsEnable: true
+MaxRadius: 7
+VeinMinerUsesDurability: false
+RequiresTool: true
+Enchantments:
+  SilkTouch: true
+  Fortune: true
+BlockList:
+    - COAL_ORE
+    - IRON_ORE
+    - GOLD_ORE
+    - LAPIS_ORE
+    - REDSTONE_ORE
+    - GLOWING_REDSTONE_ORE
+    - DIAMOND_ORE
+    - EMERALD_ORE
+    - QUARTZ_ORE

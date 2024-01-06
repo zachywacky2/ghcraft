@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702034876082
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702035593208
+  login: 1702034810556
+money: '0'
+last-account-name: PixlSchatten
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.5
+  y: 113.0
+  z: 119.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: 14.382910355961545
+  y: 38.0
+  z: 324.30000001192093
+  yaw: 279.22412109375
+  pitch: -56.70001220703125

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701426555709
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701426729563
+  login: 1701425089081
+money: '0'
+last-account-name: coxgobbler
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -443.90572922675665
+  y: 64.0
+  z: 168.48735096142823
+  yaw: 43.95013427734375
+  pitch: 33.44999313354492
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.5
+  y: 113.0
+  z: 119.5
+  yaw: 0.0
+  pitch: 0.0

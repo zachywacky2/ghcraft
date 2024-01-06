@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702311517105
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702311588537
+  login: 1702311437451
+money: '0'
+last-account-name: migga
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.5
+  y: 69.0
+  z: 119.5
+  yaw: 179.6240692138672
+  pitch: 0.5999901294708252
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -468.9156902092992
+  y: 77.03399930000201
+  z: 131.5550010247033
+  yaw: 299.7740783691406
+  pitch: 88.3499984741211

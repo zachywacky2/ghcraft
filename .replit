@@ -1,0 +1,6 @@
+run = "./run.sh"
+
+hidden = [".config"]
+
+[nix]
+channel = "stable-22_05"

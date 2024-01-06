@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698943704120
+  login: 1698942864928
+money: '0'
+last-account-name: ViggYeeish182
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -199.57668720406187
+  y: 71.0
+  z: -19.900142589235706
+  yaw: 130.80001831054688
+  pitch: 13.650001525878906
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -200.10427441934343
+  y: 71.0
+  z: -18.41237587135038
+  yaw: 130.80001831054688
+  pitch: 13.650001525878906

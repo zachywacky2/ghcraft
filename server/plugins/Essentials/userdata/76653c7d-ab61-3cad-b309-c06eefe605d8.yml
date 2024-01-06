@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698887215668
+  login: 1698887024592
+money: '0'
+last-account-name: zachywackys
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -199.632072124526
+  y: 64.0
+  z: -58.180785842279896
+  yaw: 15.000024795532227
+  pitch: -16.949993133544922
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -202.20511222133732
+  y: 68.0
+  z: -51.276604206303574
+  yaw: 211.9500732421875
+  pitch: 30.600000381469727

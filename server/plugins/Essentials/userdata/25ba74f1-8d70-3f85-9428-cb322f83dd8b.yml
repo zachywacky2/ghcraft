@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699020819271
+  login: 1699019666722
+money: '0'
+last-account-name: jaz
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -514.5966909329217
+  y: 71.0
+  z: -360.8357692638082
+  yaw: -287.56268310546875
+  pitch: 35.56437301635742
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.5103727383849
+  y: 67.0
+  z: 104.14339194545526
+  yaw: -176.0152587890625
+  pitch: 90.0

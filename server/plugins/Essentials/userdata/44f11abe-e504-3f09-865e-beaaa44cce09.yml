@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701427787753
+  login: 1701425162389
+money: '0'
+last-account-name: theos_mums_leng
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -397.86008413690024
+  y: 68.0
+  z: 181.78839121036088
+  yaw: 106.9501953125
+  pitch: 11.699993133544922
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.5
+  y: 113.0
+  z: 119.5
+  yaw: 0.0
+  pitch: 0.0

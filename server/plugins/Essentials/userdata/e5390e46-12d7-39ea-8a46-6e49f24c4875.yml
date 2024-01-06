@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702308927939
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702308954435
+  login: 1702308904947
+money: '0'
+last-account-name: bomboclat
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.42705506222717
+  y: 68.99799914359919
+  z: 119.28693441862518
+  yaw: 4.724056720733643
+  pitch: 10.199991226196289
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.5
+  y: 69.0
+  z: 119.5
+  yaw: 0.30000004172325134
+  pitch: -1.3500001430511475

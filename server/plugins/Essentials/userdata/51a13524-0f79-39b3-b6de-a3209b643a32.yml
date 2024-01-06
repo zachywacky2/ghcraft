@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702311378450
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702311781887
+  login: 1702311758296
+money: '0'
+last-account-name: VCM98
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -449.2175033534763
+  y: 80.26799936294461
+  z: 118.75325633597544
+  yaw: 16.87408447265625
+  pitch: 34.94999694824219
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.42705506222717
+  y: 68.99799914359919
+  z: 119.28693441862518
+  yaw: -323.0259704589844
+  pitch: 80.0999984741211
+homes:
+  home:
+    world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+    world-name: world
+    x: -454.40564014050636
+    y: 63.0
+    z: 154.25022229124582
+    yaw: -345.3759765625
+    pitch: 5.3999924659729

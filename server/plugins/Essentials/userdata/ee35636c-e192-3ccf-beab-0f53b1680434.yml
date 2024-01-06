@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699033508927
+  login: 1699030080161
+money: '0'
+last-account-name: BusterCherry
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -481.44996736721623
+  y: 64.0
+  z: 160.86959840718538
+  yaw: -54.825950622558594
+  pitch: 58.649993896484375
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -432.7427130072691
+  y: 68.0
+  z: -3.7572314596259235
+  yaw: -23.6295166015625
+  pitch: 30.972583770751953

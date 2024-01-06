@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701426404108
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701426722473
+  login: 1701425082990
+money: '0'
+last-account-name: FaggotPants
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -432.02482188409306
+  y: 68.0
+  z: 169.68647754461344
+  yaw: 245.7000732421875
+  pitch: 54.0000114440918
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -453.14040648734783
+  y: 65.0
+  z: 172.69999998807907
+  yaw: 26.700002670288086
+  pitch: 24.750001907348633

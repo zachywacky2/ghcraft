@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699377612407
+  login: 1699377565706
+  kits:
+    tools: 1699036756615
+money: '0'
+last-account-name: 865_BELCHER
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -470.42705506222717
+  y: 113.0
+  z: 119.28693441862518
+  yaw: 180.9740753173828
+  pitch: 1.7999902963638306
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -485.44611251325495
+  y: 67.0
+  z: 151.80733487359302
+  yaw: 253.12408447265625
+  pitch: 66.9000015258789

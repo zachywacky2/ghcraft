@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1702035315826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1702035347529
+  login: 1702034159921
+money: '0'
+last-account-name: YeegDarver564_
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -491.69872833735116
+  y: 65.0
+  z: 169.3531289166489
+  yaw: 50.100006103515625
+  pitch: 19.80000114440918
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -227.4641401088723
+  y: 72.0
+  z: 429.8302295610057
+  yaw: -146.10031127929688
+  pitch: 1.4999926090240479

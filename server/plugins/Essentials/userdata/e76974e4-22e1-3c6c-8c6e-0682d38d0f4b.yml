@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1698886831327
+  login: 1698886822322
+money: '0'
+last-account-name: niggerlover47kkk
+logoutlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -203.51053556795793
+  y: 62.0
+  z: -80.62981835766766
+  yaw: -283.0185546875
+  pitch: 35.0797004699707
+lastlocation:
+  world: aac51a2f-4654-4e2f-93b5-ae44bd344896
+  world-name: world
+  x: -185.65590530114414
+  y: 63.0
+  z: -61.23750001192093
+  yaw: -288.1458740234375
+  pitch: 6.582884788513184

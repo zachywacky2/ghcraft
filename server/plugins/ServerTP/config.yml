@@ -1,0 +1,94 @@
+# no_perms_message - Message if player has no permission.
+no_perms_message: '&4You do not have permission to do that command!'
+Teleport:
+  enabled: true
+Hub:
+  world: world
+  x: -470.42705506222717
+  y: 113.0
+  z: 119.28693441862518
+  yaw: 179.92407
+  pitch: -0.15000993
+  delayed_teleport: true
+  delayed_teleport_time: 100
+Shop:
+  world: world
+  x: -470.5209318397842
+  y: 114.0
+  z: 132.5535032919127
+  yaw: 1.8740845
+  pitch: 11.249993
+  delayed_teleport: true
+  delayed_teleport_time: 100
+survival:
+  world: world
+  x: -347.53998873848195
+  y: 64.0
+  z: 225.0799851416611
+  yaw: -1.7259159
+  pitch: 0.14999196
+  delayed_teleport: true
+  delayed_teleport_time: 100
+survivalmode:
+  world: world
+  x: -331.4282286521007
+  y: 78.0
+  z: 300.61792299050455
+  yaw: 93.97409
+  pitch: 8.399993
+  delayed_teleport: true
+  delayed_teleport_time: 100
+s:
+  world: world
+  x: -329.4186758224096
+  y: 78.0
+  z: 301.38418829236247
+  yaw: 104.02409
+  pitch: 19.949993
+  delayed_teleport: true
+  delayed_teleport_time: 100
+surv:
+  world: world
+  x: -334.529995649519
+  y: 77.0
+  z: 300.63610266122157
+  yaw: 89.02409
+  pitch: 32.249996
+  delayed_teleport: true
+  delayed_teleport_time: 100
+'10':
+  world: world
+  x: -321.98538785972113
+  y: 78.0
+  z: 300.30330082443123
+  yaw: 357.07413
+  pitch: 6.8999925
+  delayed_teleport: true
+  delayed_teleport_time: 100
+surviva;:
+  world: world
+  x: -324.6110130214964
+  y: 78.0
+  z: 301.4477879413933
+  yaw: 89.32413
+  pitch: 7.3499928
+  delayed_teleport: true
+  delayed_teleport_time: 100
+sur:
+  world: world
+  x: -321.39872369536954
+  y: 78.0
+  z: 300.8944840118035
+  yaw: 91.874115
+  pitch: 25.649994
+  delayed_teleport: true
+  delayed_teleport_time: 100
+x:
+  world: world
+  x: -328.89508508722076
+  y: 78.0
+  z: 300.55800105660444
+  yaw: 91.874115
+  pitch: 25.499994
+  delayed_teleport: true
+  delayed_teleport_time: 100
